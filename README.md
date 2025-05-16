@@ -31,7 +31,7 @@ This document presents the summarized performance of the SENTINEL defense agains
 - **Test ASR**
   Run python attack_success_rate.py and change the model/file in-place
 
-  - **Run SENTINEL over-refusal testing on or-bench**
+- **Run SENTINEL over-refusal testing on or-bench (directly load from huggingface) /benign data (temp_data folder)**
   Run python orbench-sentinel.py and change the model/file in-place
 
 - **Test FPR on or-bench**
