@@ -19,11 +19,12 @@ This document presents the summarized performance of the SENTINEL defense agains
 
 ## To Reproduce this result
 
-- **Env setup and Model Preparation**:
+- **Env setup**:
 
   Run bash env.sh
 
 - **For Main Results**:
+  
   Run bash defense_effectiveness.sh
 
  
