@@ -1,7 +1,7 @@
 #llama2_7b
-python pipeline_sentinel_gen.py --victim_model llama2_7b --harm_thresh 3.2
+python pipeline_sentinel_gen.py --victim_model llama2_7b --harm_thresh 3.3
 python attack_success_rate.py --victim_model llama2_7b
-python orbench-sentinel.py --victim_model llama2_7b --harm_thresh 3.2
+python orbench-sentinel.py --victim_model llama2_7b --harm_thresh 3.3
 
 
 # #mistral_7b_v2 #0.4
